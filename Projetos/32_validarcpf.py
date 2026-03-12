@@ -92,5 +92,6 @@ print('============================================\n')
 
 # Autor......: Diego Noberto Diniz
 # GitHub.....: https://github.com/NbDiego
-# Projeto....: Calculadora de Gorjeta
+# Projeto....: Validar CPF
+
 # Criado em..: 26/12/2025
