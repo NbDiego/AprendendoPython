@@ -119,5 +119,6 @@ if __name__ == "__main__":
 
 # Autor......: Diego Noberto Diniz
 # GitHub.....: https://github.com/NbDiego
-# Projeto....: Calculadora de Gorjeta
+# Projeto....: Gerador de Senha
+
 # Criado em..: 26/12/2025 
