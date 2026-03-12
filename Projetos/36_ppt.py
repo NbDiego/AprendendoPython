@@ -118,5 +118,6 @@ if __name__ == "__main__":
 
 # Autor......: Diego Noberto Diniz
 # GitHub.....: https://github.com/NbDiego
-# Projeto....: Calculadora de Gorjeta
+# Projeto....: Pedra-Papel-Tesoura
+
 # Criado em..: 26/12/2025    
