@@ -1,16 +1,27 @@
 # Aprendendo Python
 
-Este repositório contém exercícios básicos de Python, desenvolvidos durante o curso da **Alura**, com foco em:
+Este repositório reúne minha jornada de aprendizado em Python, desde exercícios básicos até projetos aplicados.  
+A ideia é mostrar evolução passo a passo, com código organizado e bem documentado.
 
-- Lógica de programação  
-- Estruturas de dados  
-- Conceitos fundamentais da linguagem  
+## Estrutura do Repositório
+
+- **Funcoes/**  
+  Exercícios focados em funções, incluindo validações, relatórios, lambdas, closures e recursão.
+
+- **Lacos/**  
+  Exercícios com laços de repetição e estruturas de controle.
+
+- **Projetos/**  
+  Meus primeiros projetos (31 a 36), que simulam aplicações reais.  
+  Exemplos: calculadora de gorjeta, validador de CPF, contador de vogais, gerador de senha segura e jogo pedra-papel-tesoura.
 
 ## Objetivo
-Servir como espaço de prática inicial, registrando minha evolução na linguagem e consolidando fundamentos.
 
-## Estrutura
-- Exercícios simples organizados por temas  
-- Exemplos práticos de sintaxe, condicionais, loops e funções  
+- Consolidar conceitos aprendidos em exercícios.  
+- Criar programas completos e funcionais.  
+- Evoluir gradualmente para projetos mais complexos.  
 
-Projetos maiores e mais elaborados estarão disponíveis em outro repositório específico.
+## Autor
+
+**Diego Noberto Diniz**  
+🔗 [GitHub - NbDiego](https://github.com/NbDiego)
